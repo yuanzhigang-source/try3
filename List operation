@@ -1,1 +1,10 @@
-
+##Linear List
+###InitList(&L):初始化表。
+###DestroyList(&L):销毁操作。
+###ListInsert(&L,i,e):插入。
+###ListDeletw(&L,i,&e):删除操作。
+###LocateElem(L,e):按值查找。
+###GetElem(L,i):按位查找。
+###Length(L):求表长。
+###PrintList(L):输出操作。
+###Empty(L):判空操作。
